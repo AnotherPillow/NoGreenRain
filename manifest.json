@@ -2,8 +2,10 @@
   "Name": "NoGreenRain",
   "Author": "Pillow",
   "Version": "1.0.0",
-  "Description": "A mod to block green rain from occuring.",
+  "Description": "A mod to block (or force) green rain from occuring.",
   "UniqueID": "Pillow.NoGreenRain",
   "EntryDll": "NoGreenRain.dll",
-  "UpdateKeys": []
+  "UpdateKeys": [
+    "Nexus:26912"
+  ]
 }
